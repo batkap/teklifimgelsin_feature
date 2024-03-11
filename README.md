@@ -1,16 +1,6 @@
-# teklifimgelsin_feature
+TeklifimGelsin Feature Replica
+This project is a almost replica of the UI and UX designs of the TeklifimGelsin application. It aims to mimic the functionalities and user experience provided by TeklifimGelsin.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features
+Loan & Maturity Request: Users can submit loan & maturity requests through the application.
+Data Analysis: The application provides analysis of returned data for loans and maturities.
