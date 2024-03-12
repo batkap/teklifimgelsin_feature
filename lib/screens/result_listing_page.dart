@@ -7,6 +7,8 @@ import 'package:teklifimgelsin_feature/widgets/advertisement_card.dart';
 
 import 'package:teklifimgelsin_feature/widgets/detailed_offer_pop_up.dart';
 
+// PR TRIAL
+
 class ResultListingPage extends StatefulWidget {
   const ResultListingPage({super.key});
 
